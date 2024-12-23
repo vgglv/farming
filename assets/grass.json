@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Liminara Bloom",
+        "description": "A bioluminescent flower that glows softly at night, with petals that change color based on the surrounding temperature.",
+        "cost": 0.99,
+        "time": 120
+    },
+    {
+        "name": "Whispering Fern",
+        "description": "A delicate fern that produces a soft rustling sound when the wind blows, believed to communicate with nearby plants.",
+        "cost": 1.29,
+        "time": 240
+    },
+    {
+        "name": "Crimson Veil Vine",
+        "description": "A climbing vine with deep red leaves that drape like a curtain, known for its ability to thrive in low-light conditions.",
+        "cost": 2.29,
+        "time": 480
+    },
+    {
+        "name": "Frostleaf Cactus",
+        "description": "A cactus with icy blue spines and frosty leaves that can survive extreme cold, often found in arid, snowy regions.",
+        "cost": 2.99,
+        "time": 500
+    },
+    {
+        "name": "Singing Orchid",
+        "description": "An orchid that emits melodic sounds when touched, attracting pollinators with its unique tunes.",
+        "cost": 3.49,
+        "time": 800
+    },
+    {
+        "name": "Glimmering Moss",
+        "description": "A shimmering green moss that sparkles in sunlight, often used in decorative gardens for its enchanting appearance.",
+        "cost": 1.49,
+        "time": 60
+    },
+    {
+        "name": "Velvet Petal Rose",
+        "description": "A rose with velvety petals that change texture based on humidity, releasing a sweet fragrance when touched.",
+        "cost": 5.49,
+        "time": 900
+    },
+    {
+        "name": "Starshade Tree",
+        "description": "A tall tree with star-shaped leaves that provide a cool, shaded area beneath, often used for gatherings in magical forests.",
+        "cost": 5.99,
+        "time": 1000
+    },
+    {
+        "name": "Dewdrop Lily",
+        "description": "A water lily that collects dew on its petals, creating a stunning display of glistening droplets in the morning light.",
+        "cost": 6.49,
+        "time": 1100
+    },
+    {
+        "name": "Emberroot Plant",
+        "description": "A plant with fiery orange roots that glow faintly in the dark, believed to have healing properties when brewed into a tea.",
+        "cost": 6.99,
+        "time": 1200
+    },
+    {
+        "name": "Moonlit Fern",
+        "description": "A fern that thrives in moonlight, its fronds shimmering silver at night, often found in enchanted groves.",
+        "price": 10.99,
+        "time_to_bloom": 1300
+    },
+    {
+        "name": "Thunderbloom",
+        "description": "A large flower that opens only during thunderstorms, releasing a scent that calms animals and humans alike.",
+        "price": 19.99,
+        "time_to_bloom": 1800
+    },
+    {
+        "name": "Crystal Thornbush",
+        "description": "A bush with sharp, crystal-like thorns that refract light, creating a dazzling display while deterring herbivores.",
+        "price": 30.00,
+        "time_to_bloom": 3600
+    },
+    {
+        "name": "Sapphire Petal Flower",
+        "description": "A flower with deep blue petals that resemble sapphires, known for attracting rare butterflies.",
+        "price": 16.75,
+        "time_to_bloom": 1500
+    },
+    {
+        "name": "Echoing Willow",
+        "description": "A willow tree that produces echoes of sounds made nearby, creating a serene and mystical atmosphere.",
+        "price": 45.00,
+        "time_to_bloom": 5600
+    },
+    {
+        "name": "Golden Sunburst",
+        "description": "A bright yellow flower that opens at sunrise and closes at sunset, known for its cheerful appearance and uplifting scent.",
+        "price": 13.50,
+        "time_to_bloom": 1300
+    }
+]
